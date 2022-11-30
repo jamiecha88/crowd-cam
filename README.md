@@ -11,3 +11,8 @@ Users can post photos and videos to capture their POV at various events and shar
 - MVP is a software layer over inviting people to sync their footage on a timelines by the video's metadata. 
 - Add facial or body tracking to better focus on certain person throughout clips
 - utilize drones?
+
+# Future problems
+- What happens when multiple people try to upload heavy media? (slow app performance)
+- How to filter out blurry images or low quality videos. 
+

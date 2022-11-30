@@ -1,7 +1,7 @@
 # CrowdCam
 Users can post photos and videos to capture their POV at various events and share with the public. Essentially, adding a method of capturing moments that doesn't fall into the "story" format
 
-#Features
+# Features
 
 - Participants at an event can be invited to capture their POV (with possible instructions)
 - Crowsource bullet time footage or capture after-movie footage for smaller-scale events

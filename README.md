@@ -1,5 +1,5 @@
 # CrowdCam
-Users can post photos and videos to capture their POV at various events and share with the public. Essentially, adding a method of capturing moments that doesn't fall into the "story" format
+Users can post photos and videos to capture their POV at various events and share with the public. Essentially, adding a method of capturing moments that doesn't fall into the "story" format. Imagine social media + file storage wrapped into one app? 
 
 # Features
 
